@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=http://mysite.github.io/folder/PML-Course-Project.html" />
+<meta http-equiv="refresh" content="0; url=https://thehawkman2018.github.io/PML-Course-Project/PML-Course-Project.html" />
